@@ -1,0 +1,12 @@
+{
+  "name": "typescript-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andrewngu/typescript-starter.git",
+  "author": "<andrewngu@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^8.0.1",
+    "typescript": "^3.9.7"
+  }
+}
